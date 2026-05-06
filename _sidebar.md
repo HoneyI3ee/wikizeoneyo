@@ -1,5 +1,5 @@
 * **Main Menu**
-  * [🏠 Home](/)
+  * [🏠 Home](README.md)
 
 * **👤 About Me**
   * [Who I Am](about.md)
