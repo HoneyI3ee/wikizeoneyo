@@ -53,7 +53,7 @@
 
   <script>
     // 1. Logic for the folder path
-    var docsifyBasePath = window.location.pathname.indexOf('/wikizeoneyo/') === 0 ? '/wikizeoneyo/' : '/';
+    var docsifyBasePath = window.location.pathname === '/wikizeoneyo' || window.location.pathname.indexOf('/wikizeoneyo/') === 0 ? '/wikizeoneyo/' : '/';
 
     // 2. Docsify Configuration
     window.$docsify = {
