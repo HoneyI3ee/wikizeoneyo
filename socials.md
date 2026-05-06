@@ -1,0 +1,6 @@
+* [🤍Twitch](https://www.twitch.tv/zeoneyo)
+* [🖤Youtube](https://www.youtube.com/@ZeoNeyo)
+* [🤍Twitter](https://x.com/ZeoNeyo)
+* [🖤TikTok](https://www.tiktok.com/@ZeoNeyo)
+* [🤍Discord](https://discord.gg/rj9B7ZdfEW)
+* [🖤Throne](https://throne.com/zeoneyo)
