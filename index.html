@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zeo Neyo Wiki</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  
+  <style>
+    /* Universal Background */
+    body {
+      background-image: url('back.png');
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    /* Content Card */
+    .content {
+      background: rgba(30, 26, 49, 0.93);
+      padding: 30px !important;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+      margin-top: 20px;
+    }
+
+    /* Sidebar Styling */
+    .sidebar {
+      background-color: rgba(4, 1, 13, 0.95) !important;
+      border-right: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .sidebar a {
+      color: #d8dcf9 !important;
+    }
+
+    .sidebar a:hover {
+      color: #ffffff !important;
+    }
+
+    @media screen and (max-width: 768px) {
+      .content {
+        margin: 10px;
+        padding: 15px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script>
+    // 1. Logic for the folder path
+    var docsifyBasePath = window.location.pathname.indexOf('/neyozeo/') === 0 ? '/neyozeo/' : '/';
+
+    // 2. Docsify Configuration
+    window.$docsify = {
+      name: 'Zeo Neyo Wiki',
+      basePath: docsifyBasePath,
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      search: 'auto',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
+    };
+  </script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
