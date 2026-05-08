@@ -2,7 +2,7 @@
 
 About me: Zeo Neyo
 
-[test test, hello lil heathens.](socials.md)
+[Where to find Zeo Neyo.](socials.md)
 
 ---
 
