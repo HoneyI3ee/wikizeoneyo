@@ -46,7 +46,7 @@
 
   /* 3. Heading Colors */
   .profile-card h3 {
-    color: #efebb8 !important; /* Pale Gold */
+    color: #ffffff !important; /* White */
     margin-top: 0;
   }
 
