@@ -1,10 +1,10 @@
 <img src="about.png" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(92, 83, 137, 0.3);">
 
-# Zeo Neyo
+<h1 style="color: #ffffff !important;">Zeo Neyo</h1>
 
 <div class="profile-card">
 
-### 🖤🤍About Zeo Neyo🤍🖤
+<h3 style="color: #ffffff !important;">🖤🤍About Zeo Neyo🤍🖤</h3>
 > Zeo, is a human professor who looked into why so many of his students were acting *weird*. Which is how he stumbled upon the Mask of Sin.
 
 > Neyo, is the Mask of Sanity, they carries the power of the tickster. Neyo was once part of the Mask of Sins, however, decided to leave the Mask of Sins because he didn't agree with their ideals. 
@@ -53,7 +53,7 @@
   /* 4. Center the Main Title */
   h1 {
     text-align: center;
-    color: #f0efe4 !important;
+    color: #ffffff !important;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 20px;
