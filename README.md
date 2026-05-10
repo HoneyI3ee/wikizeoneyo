@@ -1,6 +1,6 @@
 <img src="ban.png" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
 
-About me: Zeo Neyo
+About Zeo Neyo
 
 [Where to find Zeo Neyo.](socials.md)
 
