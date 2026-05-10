@@ -36,4 +36,10 @@ About Zeo Neyo
     border-bottom: 1px solid rgba(27, 9, 98, 0.2);
     padding-bottom: 20px;
   }
+  
+   @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap');
+  
+  h1 {
+    font-family: 'Bodoni Moda', serif;
+  }
 </style>
