@@ -1,9 +1,8 @@
-* **Main Menu**
-  * [🏠 Home](README.md)
+* **Main Page**
+  * [Home](README.md)
 
-* **👤 About Me**
-  * [Who I Am](about.md)
+* **About Zeo Neyo**
+  * [Who is Zeo Neyo](about.md)
 
-* **📂 Work**
-  * [Projects](project.md)
+* **Where to find Zeo Neyo**
   * [Socials](socials.md)
