@@ -58,17 +58,9 @@
   <div id="app"></div>
 
   <script>
-    // 1. Logic for the folder path
-    var docsifyPath = window.location.pathname.replace(/^\/+|\/+$/g, '');
-    var docsifyBasePath = '/';
-    if (docsifyPath) {
-      docsifyBasePath = '/' + docsifyPath.split('/')[0] + '/';
-    }
-
-    // 2. Docsify Configuration
+    // Docsify Configuration
     window.$docsify = {
       name: 'Zeo Neyo Wiki',
-      basePath: docsifyBasePath,
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
