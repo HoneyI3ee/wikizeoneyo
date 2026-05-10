@@ -1,8 +1,8 @@
 * **Main Page**
-  * [Home](README.md)
+  * [Home Page](README.md)
 
 * **About Zeo Neyo**
-  * [Who I Am](about.md)
+  * [Who is Zeo Neyo](about.md)
 
 * **Where to find Zeo Neyo**
   * [Socials](socials.md)

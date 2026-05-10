@@ -17,7 +17,7 @@ About Zeo Neyo
 ---
 
  Who is Zeo Neyo?
-- Zeo Neyo, is a demi-god VTuber with the power of the trickster "Mask of Sanity" on my side. Just what is the "Mask of Sanity"? Well, you first need to know what the "Masks of Sins" are to paint the full picture. To put it simply, the "Masks of Sins" are a cult that, Zeo Neyo is trying to take down. During the process, he have rescued the little heathens, people who were once controlled by the Masks.
+- Zeo Neyo, is a demi-god VTuber with the power of the trickster "Mask of Sanity" on his side. Just what is the "Mask of Sanity"? Well, you first need to know what the "Masks of Sins" are to paint the full picture. To put it simply, the "Masks of Sins" are a cult that, Zeo Neyo is trying to take down. During the process, he have rescued the little heathens, people who were once controlled by the Masks.
 
 - *He too was once trapped by the Mask of Sins...*
 
@@ -36,7 +36,7 @@ About Zeo Neyo
     border-bottom: 1px solid rgba(27, 9, 98, 0.2);
     padding-bottom: 20px;
   }
-  
+
    @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap');
   
   h1 {
