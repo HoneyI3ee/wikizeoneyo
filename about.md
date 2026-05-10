@@ -12,8 +12,8 @@
 ---
 
 ### 🤍 Who is Zeo Neyo? 🖤
-* **A demi-god V-tuber, who's an over all amazing person, and a dreamer. He's community grew once he played the game "The Freak Circus". Zeo Neyo's community has only grown ever since, the community called "Heathen's" by the creator.** 
-* **Heathen's were people who once followed the Mask of Sins**
+> A demi-god V-tuber, who's an over all amazing person, and a dreamer. He's community grew once he played the game "The Freak Circus". Zeo Neyo's community has only grown ever since, the community called "Heathen's" by the creator.** 
+> Heathen's were people who once followed the Mask of Sins
 
 
 </div>
@@ -21,6 +21,7 @@
 ---
 
 ![Heathens Community](heathens.png)
+> *Credits to Captain_Batz*
 
 <style>
   /* 1. Fix the Blue Text for GitHub/Docsify */
