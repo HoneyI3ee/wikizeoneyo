@@ -1,3 +1,11 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap');
+  
+  h1 {
+    font-family: 'Bodoni Moda', serif;
+  }
+</style>
+
 <img src="social.png" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 15px rgba(92, 83, 137, 0.3);">
 
 
