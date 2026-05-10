@@ -22,6 +22,11 @@ About Zeo Neyo
 - *He too was once trapped by the Mask of Sins...*
 
 ---
+
+<a href="https://docs.google.com/presentation/d/1CVGUrRb8hT2Z-ftC60s9bu5xb2ZXeDO0wyu2Id_zeqs/edit?usp=sharing" target="_blank">
+  <img src="ref.png" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px; cursor: pointer;" alt="Click to view Lore Slides">
+</a>
+
 <style>
   .content {
     background: rgba(36, 33, 56, 0.50);
