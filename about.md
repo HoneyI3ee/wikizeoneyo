@@ -11,7 +11,7 @@
 > *When the cult found out they, casted him away...*   
 ---
 
-### 🤍 Who is Zeo Neyo? 🖤
+<h3 style="color: #ffffff !important;">🤍 Who is Zeo Neyo? 🖤</h3>
 > A demi-god V-tuber, who's an over all amazing person, and a dreamer. He's community grew once he played the game "The Freak Circus". Zeo Neyo's community has only grown ever since, the community called "Heathen's" by the creator.** 
 > Heathen's were people who once followed the Mask of Sins
 
