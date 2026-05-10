@@ -22,19 +22,6 @@ About me: Zeo Neyo
 - *He too was once trapped by the Mask of Sins...*
 
 ---
-
- Lore stuff about him being a Demi-God
-- more descibtion bs *I cannot spell*
-- yap yap
-- this guy  
-- smh 
-- I care about him but holy
-
----
-
-> 
-> blah blah maybe something here
-
 <style>
   .content {
     background: rgba(36, 33, 56, 0.50);
