@@ -8,7 +8,7 @@
 
 > * Zeo, is a human professor who looked into why so many of his students were acting *weird*. Which is how he stumbled upon the Mask of Sin.
 >
-> * Neyo, is the Mask of Sanity, they carries the power of the tickster. Neyo was once part of the Mask of Sins, however, decided to leave the Mask of Sins because he didn't agree with their ideals. 
+> * Neyo, is the Mask of Sanity, they carry the power of the tickster. Neyo was once part of the Mask of Sins, however, they decided to leave the Mask of Sins because he didn't agree with their ideals. 
 > 
 > *When the cult found out they, casted him away...*   
 ---
